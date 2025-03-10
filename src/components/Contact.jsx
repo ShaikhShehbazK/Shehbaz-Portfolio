@@ -16,7 +16,7 @@ export default function Contact() {
     e.preventDefault();
 
     emailjs
-      .sendForm("service_3gsnlok", "template_8bekcnp", form.current, {
+      .sendForm("service_tnkagkv", "template_8bekcnp", form.current, {
         publicKey: "10wIsJEHVe6tcHh8j",
       })
       .then(
