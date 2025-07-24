@@ -15,9 +15,9 @@ function App() {
       <div>
         <Navbar />
         <Home />
-        <About />
         <Portfolio />
         <Experience />
+        <About />
         <Contact />
         <Footer />
       </div>
