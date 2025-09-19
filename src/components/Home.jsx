@@ -189,7 +189,7 @@ export default function Home() {
               }`}
             >
               <a
-                href="/Node.js_React.js_MERN_Shehbaz (2).pdf"
+                href="/Node.js_React.js_MERN_Shehbaz.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-xl font-semibold shadow-lg hover:shadow-xl hover:bg-blue-50 hover:text-blue-800 hover:scale-105 transition-all duration-300 transform hover:-translate-y-1"
@@ -198,7 +198,7 @@ export default function Home() {
                 View CV
               </a>
               <a
-                href="/Node.js_React.js_MERN_Shehbaz (2).pdf"
+                href="/Node.js_React.js_MERN_Shehbaz.pdf"
                 download
                 className="group inline-flex items-center gap-2 bg-gradient-to-r from-emerald-600 to-blue-600 text-white px-6 py-3 rounded-xl font-semibold shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 transform hover:-translate-y-1 hover:from-emerald-700 hover:to-blue-700"
               >
